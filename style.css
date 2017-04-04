@@ -1,0 +1,56 @@
+	body {
+		font-family: verdana;
+		text-align: justify;
+		padding: 30px;
+		border: solid 40px #37A584;
+		margin:0px;
+	}
+
+	h1{
+		text-align: center;
+		color:#37A584;
+	}
+	h3{
+		text-align: left;
+
+	}
+	h4{
+		text-align: left;
+	}
+	h5{
+		text-align: left;
+	}
+
+	p {
+		font-size: 16px;
+		padding-right: 20px;
+	}
+
+	ul{
+		list-style-type: none;
+	}
+
+	ul#portfolio li{
+		list-style: none;
+		display: inline;
+	}
+
+	img {
+	    display: block;
+	    margin-left: auto;
+	    margin-right: auto;
+	}
+
+  	.img-circle {
+    border: 10px solid grey;
+    border-radius: 50%;
+	}
+
+	.date{
+		text-align: center;
+		font-style: italic;
+	}
+
+	.title{
+		text-align: center;
+	}
